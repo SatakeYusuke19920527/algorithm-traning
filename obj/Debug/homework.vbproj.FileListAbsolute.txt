@@ -1,0 +1,11 @@
+C:\Users\satake\Desktop\01.connected\06.koshikawaさんからの課題\homework\homework\bin\Debug\homework.exe.config
+C:\Users\satake\Desktop\01.connected\06.koshikawaさんからの課題\homework\homework\bin\Debug\homework.exe
+C:\Users\satake\Desktop\01.connected\06.koshikawaさんからの課題\homework\homework\bin\Debug\homework.pdb
+C:\Users\satake\Desktop\01.connected\06.koshikawaさんからの課題\homework\homework\bin\Debug\homework.xml
+C:\Users\satake\Desktop\01.connected\06.koshikawaさんからの課題\homework\homework\obj\Debug\homework.vbprojAssemblyReference.cache
+C:\Users\satake\Desktop\01.connected\06.koshikawaさんからの課題\homework\homework\obj\Debug\homework.Resources.resources
+C:\Users\satake\Desktop\01.connected\06.koshikawaさんからの課題\homework\homework\obj\Debug\homework.vbproj.GenerateResource.cache
+C:\Users\satake\Desktop\01.connected\06.koshikawaさんからの課題\homework\homework\obj\Debug\homework.vbproj.CoreCompileInputs.cache
+C:\Users\satake\Desktop\01.connected\06.koshikawaさんからの課題\homework\homework\obj\Debug\homework.exe
+C:\Users\satake\Desktop\01.connected\06.koshikawaさんからの課題\homework\homework\obj\Debug\homework.xml
+C:\Users\satake\Desktop\01.connected\06.koshikawaさんからの課題\homework\homework\obj\Debug\homework.pdb
